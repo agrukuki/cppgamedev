@@ -1,8 +1,8 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 using namespace std;
-#define ROW 7
-#define COL 7
+#define ROW 10
+#define COL 10
 
 
 
